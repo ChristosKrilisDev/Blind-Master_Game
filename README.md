@@ -1,7 +1,8 @@
 # Blind-Master_Game
 
 About:
-This is a small game that I have made in 24 hours. The main content of this game is learn how to type with out looking on your keyboard , while you are trying to survive from evil minions that they are attaking you.
+This is a small game that I have made under 24 hours. 
+The main content of this game is learn how to type with out looking on your keyboard , while you are trying to survive from evil minions that they are attaking you.
 
 How To Play:
 You can run this project on your own. Just donwload it and have fun.
